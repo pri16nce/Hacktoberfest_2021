@@ -203,7 +203,7 @@ void deleteLastNode()
 
 int main()
 {
-	int choice, x, data;
+	int choice, x, data;//integers are used
 	create();
 	
 	while(1)
